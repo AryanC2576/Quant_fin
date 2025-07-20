@@ -34,6 +34,17 @@ The backtest was conducted on BTC/USD daily data from [July 20,2022] to [July 20
 
 ![BTC Price vs MA Plot](https://raw.githubusercontent.com/AryanC2576/Quant_fin/refs/heads/main/price_ma_plot.png)
 
-###
+### Cummulative Performane
 
+![Cummulative Performance Plot](https://raw.githubusercontent.com/AryanC2576/Quant_fin/refs/heads/main/cummulative_performance_plot.png)
 
+### Key Observations
+
+The "Buy and Hold" strategy generated a cumulative return of [X.XX]x over the period.
+
+The "MA Crossover Strategy" generated a cumulative return of [Y.YY]x over the same period.
+
+### Performance Comparison: 
+The MA strategy generally lagged behind buy-and-hold during strong bull markets but showed better capital preservation during extended downtrends
+
+Annualized Sharpe Ratio: The strategy achieved an Annualized Sharpe Ratio of [Z.ZZ]. [e.g., "This indicates a moderate (or good/poor) risk-adjusted return compared to simply holding the asset."].
