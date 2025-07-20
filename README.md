@@ -88,3 +88,5 @@ The strategy achieved an Annualized Sharpe Ratio of 0.97. This range is often co
 This code is provided for educational and illustrative purposes only. It does not constitute financial advice, and past performance is not indicative of future results. Trading cryptocurrencies carries substantial risk, and you could lose all of your capital. Always conduct your own thorough research and consult with a qualified financial professional before making any investment decisions.
 
 ## License
+
+MIT License 
