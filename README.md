@@ -1,4 +1,4 @@
-# Quant_fin
+# BTC M20 Momentum Strategy
 ## Project Title:
 
 Bitcoin (BTC/USD) 20-Day Moving Average Momentum Strategy Backtest
