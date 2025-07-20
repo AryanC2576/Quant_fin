@@ -32,4 +32,8 @@ The backtest was conducted on BTC/USD daily data from [July 20,2022] to [July 20
 
 ### Price vs. Moving Average
 
+![BTC Price vs MA Plot](https://raw.githubusercontent.com/AryanC2576/Quant_fin/refs/heads/main/price_ma_plot.png)
+
+###
+
 
